@@ -1,0 +1,95 @@
+column_a,validctrys,ntravelers,ndeaths,percap,region
+62,Pakistan,226200,8,3.54,Asia
+84,Thailand,343500,11,3.2,Asia
+66,Philippines,3240000,74,2.28,Asia
+41,Haiti,3316700,65,1.96,Americas
+42,Honduras,2766800,46,1.66,Americas
+60,Nigeria,780900,10,1.28,Africa
+8,Belize,1563400,16,1.02,Americas
+40,Guyana,722200,7,0.97,Americas
+26,Egypt,579800,5,0.86,Africa
+54,Mexico,71608500,598,0.84,Americas
+39,Guatemala,3799600,26,0.68,Americas
+27,El Salvador,5324400,34,0.64,Americas
+36,Greece,691800,3,0.43,Europe
+51,Jordan,775600,3,0.39,Asia
+49,Jamaica,10606600,39,0.37,Americas
+89,Ukraine,276800,1,0.36,Europe
+25,Ecuador,3457500,12,0.35,Americas
+59,Nicaragua,2060000,7,0.34,Americas
+19,Costa Rica,8137400,27,0.33,Americas
+37,Grenada,328900,1,0.3,Americas
+18,Colombia,8677700,25,0.29,Americas
+92,Uruguay,355200,1,0.28,Americas
+6,Barbados,1468600,4,0.27,Americas
+74,Saudi Arabia,749100,2,0.27,Asia
+24,Dominican Republic,18169700,45,0.25,Americas
+86,Trinidad and Tobago,2980300,7,0.23,Americas
+87,Turkey,3854400,8,0.21,Asia
+28,Ethiopia,501700,1,0.2,Africa
+78,South Africa,1527000,3,0.2,Africa
+69,Qatar,2716000,5,0.18,Asia
+52,Kuwait,592900,1,0.17,Asia
+45,India,3307200,5,0.15,Asia
+47,Israel,4770700,7,0.15,Asia
+7,Belgium,3495000,5,0.14,Europe
+31,Finland,699800,1,0.14,Europe
+93,Venezuela,3735900,5,0.13,Americas
+64,Panama,7501200,9,0.12,Americas
+70,Russia,2695700,3,0.11,Europe
+67,Poland,1116300,1,0.09,Europe
+20,Cuba,2410400,2,0.08,Americas
+65,Peru,5019500,4,0.08,Americas
+68,Portugal,1610800,1,0.06,Europe
+4,Australia,8611000,4,0.05,Oceania
+12,Brazil,15337700,8,0.05,Americas
+76,Singapore,1930100,1,0.05,Asia
+15,Cayman Islands,2515800,1,0.04,Americas
+56,Netherlands,15301700,6,0.04,Europe
+16,Chile,2952800,1,0.03,Americas
+17,China,14593400,5,0.03,Asia
+80,Spain,9312400,3,0.03,Europe
+34,Germany,32703500,5,0.02,Europe
+48,Italy,9146800,2,0.02,Europe
+90,United Arab Emirates,9061000,2,0.02,Asia
+32,France,21280100,2,0.01,Europe
+46,Ireland,6748100,1,0.01,Europe
+50,Japan,35248300,2,0.01,Asia
+1,Antigua and Barbuda,791900,0,0,Americas
+2,Argentina,4581100,0,0,Americas
+3,Aruba,4260900,0,0,Americas
+5,Austria,1286000,0,0,Europe
+9,Bermuda,1978200,0,0,Americas
+10,Bolivia,502000,0,0,Americas
+11,"Bonaire, Sint Eustatius, and Saba",135200,0,0,NA
+13,British Virgin Islands,454600,0,0,NA
+14,Canada,83817200,2,0,Americas
+21,Curacao,887100,0,0,NA
+22,Czech Republic,296900,0,0,Europe
+23,Denmark,2331800,0,0,Europe
+29,Federated States of Micronesia,219700,0,0,NA
+30,Fiji,548600,0,0,Oceania
+33,French Polynesia,819800,0,0,Oceania
+35,Ghana,379600,0,0,Africa
+38,Guadeloupe,170600,0,0,Americas
+43,Hong Kong,8445400,0,0,Asia
+44,Iceland,2359000,0,0,Europe
+53,Martinique,116100,0,0,Americas
+55,Morocco,412200,0,0,Africa
+57,Netherlands Antilles,486800,0,0,NA
+58,New Zealand,2501400,0,0,Oceania
+61,Norway,1014100,0,0,Europe
+63,Palau,171900,0,0,Oceania
+71,Saint Kitts and Nevis,540000,0,0,Americas
+72,Saint Lucia,1045400,0,0,Americas
+73,Samoa,234400,0,0,Oceania
+75,Senegal,183800,0,0,Africa
+77,Sint Maarten,2185100,0,0,NA
+79,South Korea,15234000,0,0,Asia
+81,Sweden,1651900,0,0,Europe
+82,Switzerland,6641100,0,0,Europe
+83,Taiwan,7026900,0,0,Asia
+85,The Bahamas,8580100,0,0,NA
+88,Turks and Caicos Islands,1949100,0,0,Americas
+91,United Kingdom,57264100,1,0,Europe
+94,NA,,,,NA

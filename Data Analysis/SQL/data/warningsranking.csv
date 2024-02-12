@@ -1,0 +1,241 @@
+column_a,sdwarnings_df_country,sdwarnings_df_region,sdwarnings_df_nwarnings
+136,Mexico,Americas,28
+129,Mali,Africa,26
+103,Israel,Asia,25
+160,Pakistan,Asia,25
+101,Iraq,Asia,24
+1,Afghanistan,Asia,23
+153,Nigeria,Africa,23
+208,Syria,Asia,23
+3,Algeria,Africa,22
+100,Iran,Asia,22
+237,Yemen,Asia,22
+36,Burundi,Africa,21
+42,Central African Republic,Africa,21
+109,Kenya,Africa,20
+116,Lebanon,Asia,20
+166,Philippines,Asia,20
+43,Chad,Africa,19
+119,Libya,Africa,19
+203,Sudan,Africa,19
+48,Colombia,Americas,18
+50,Congo,Africa,18
+69,Eritrea,Africa,18
+133,Mauritania,Africa,17
+152,Niger,Africa,16
+156,North Korea,Asia,16
+185,Saudi Arabia,Asia,16
+196,Somalia,Africa,16
+199,South Sudan,Africa,15
+226,Ukraine,Europe,15
+66,Egypt,Africa,11
+220,Turkey,Asia,11
+93,Haiti,Americas,10
+67,El Salvador,Americas,9
+94,Honduras,Americas,9
+219,Tunisia,Africa,9
+38,Cameroon,Africa,8
+90,Guinea,Africa,8
+233,Venezuela,Americas,7
+34,Burkina Faso,Africa,6
+146,Nepal,Asia,6
+173,Russia,Europe,6
+231,Uzbekistan,Asia,6
+53,Cote d'Ivoire,NA,4
+60,Djibouti,Africa,4
+212,Thailand,Asia,4
+16,Bahrain,Asia,3
+80,Georgia,Asia,3
+190,Sierra Leone,Africa,3
+117,Lesotho,Africa,2
+118,Liberia,Africa,2
+202,Sri Lanka,Asia,2
+113,Kyrgyzstan,Asia,1
+125,Madagascar,Africa,1
+2,Albania,Europe,0
+4,American Samoa,Oceania,0
+5,Andorra,Europe,0
+6,Angola,Africa,0
+7,Anguilla,Americas,0
+8,Antarctica,NA,0
+9,Antigua and Barbuda,Americas,0
+10,Argentina,Americas,0
+11,Armenia,Asia,0
+12,Aruba,Americas,0
+13,Australia,Oceania,0
+14,Austria,Europe,0
+15,Azerbaijan,Asia,0
+17,Bangladesh,Asia,0
+18,Barbados,Americas,0
+19,Belarus,Europe,0
+20,Belgium,Europe,0
+21,Belize,Americas,0
+22,Benin,Africa,0
+23,Bermuda,Americas,0
+24,Bhutan,Asia,0
+25,Bolivia,Americas,0
+26,"Bonaire, Sint Eustatius, and Saba",NA,0
+27,Bosnia and Herzegovina,Europe,0
+28,Botswana,Africa,0
+29,Brazil,Americas,0
+30,British Indian Ocean Territory,NA,0
+31,British Virgin Islands,NA,0
+32,Brunei,NA,0
+33,Bulgaria,Europe,0
+35,Burma,Asia,0
+37,Cambodia,Asia,0
+39,Canada,Americas,0
+40,Cape Verde,NA,0
+41,Cayman Islands,Americas,0
+44,Chile,Americas,0
+45,China,Asia,0
+46,Christmas Island,NA,0
+47,Cocos (Keeling) Islands,NA,0
+49,Comoros,Africa,0
+51,Cook Islands,Oceania,0
+52,Costa Rica,Americas,0
+54,Croatia,Europe,0
+55,Cuba,Americas,0
+56,Curacao,NA,0
+57,Cyprus,Asia,0
+58,Czech Republic,Europe,0
+59,Denmark,Europe,0
+61,Dominica,Americas,0
+62,Dominican Republic,Americas,0
+63,East Germany,NA,0
+64,East Timor,NA,0
+65,Ecuador,Americas,0
+68,Equatorial Guinea,Africa,0
+70,Estonia,Europe,0
+71,Ethiopia,Africa,0
+72,Falkland Islands,NA,0
+73,Federated States of Micronesia,NA,0
+74,Fiji,Oceania,0
+75,Finland,Europe,0
+76,France,Europe,0
+77,French Guiana,Americas,0
+78,French Polynesia,Oceania,0
+79,Gabon,Africa,0
+81,Germany,Europe,0
+82,Ghana,Africa,0
+83,Gibraltar,Europe,0
+84,Greece,Europe,0
+85,Greenland,Americas,0
+86,Grenada,Americas,0
+87,Guadeloupe,Americas,0
+88,Guam,Oceania,0
+89,Guatemala,Americas,0
+91,Guinea-Bissau,Africa,0
+92,Guyana,Americas,0
+95,Hong Kong,Asia,0
+96,Hungary,Europe,0
+97,Iceland,Europe,0
+98,India,Asia,0
+99,Indonesia,Asia,0
+102,Ireland,Europe,0
+104,Italy,Europe,0
+105,Jamaica,Americas,0
+106,Japan,Asia,0
+107,Jordan,Asia,0
+108,Kazakhstan,Asia,0
+110,Kiribati,Oceania,0
+111,Kosovo,NA,0
+112,Kuwait,Asia,0
+114,Laos,NA,0
+115,Latvia,Europe,0
+120,Liechtenstein,Europe,0
+121,Lithuania,Europe,0
+122,Luxembourg,Europe,0
+123,Macau,NA,0
+124,Macedonia,NA,0
+126,Malawi,Africa,0
+127,Malaysia,Asia,0
+128,Maldives,Asia,0
+130,Malta,Europe,0
+131,Marshall Islands,Oceania,0
+132,Martinique,Americas,0
+134,Mauritius,Africa,0
+135,Mayotte,Africa,0
+137,Moldova,NA,0
+138,Monaco,Europe,0
+139,Mongolia,Asia,0
+140,Montenegro,Europe,0
+141,Montserrat,Americas,0
+142,Morocco,Africa,0
+143,Mozambique,Africa,0
+144,Namibia,Africa,0
+145,Nauru,Oceania,0
+147,Netherlands,Europe,0
+148,Netherlands Antilles,NA,0
+149,New Caledonia,Oceania,0
+150,New Zealand,Oceania,0
+151,Nicaragua,Americas,0
+154,Niue,Oceania,0
+155,Norfolk Island,Oceania,0
+157,Northern Mariana Islands,Oceania,0
+158,Norway,Europe,0
+159,Oman,Asia,0
+161,Palau,Oceania,0
+162,Panama,Americas,0
+163,Papua New Guinea,Oceania,0
+164,Paraguay,Americas,0
+165,Peru,Americas,0
+167,Poland,Europe,0
+168,Portugal,Europe,0
+169,Puerto Rico,Americas,0
+170,Qatar,Asia,0
+171,Reunion,NA,0
+172,Romania,Europe,0
+174,Rwanda,Africa,0
+175,Saint Barthelemy,NA,0
+176,"Saint Helena, Ascension, and Tristan da Cunha",NA,0
+177,Saint Kitts and Nevis,Americas,0
+178,Saint Lucia,Americas,0
+179,Saint Martin,NA,0
+180,Saint Pierre and Miquelon,Americas,0
+181,Saint Vincent and the Grenadines,Americas,0
+182,Samoa,Oceania,0
+183,San Marino,Europe,0
+184,Sao Tome and Principe,Africa,0
+186,Senegal,Africa,0
+187,Serbia,Europe,0
+188,Serbia and Montenegro,NA,0
+189,Seychelles,Africa,0
+191,Singapore,Asia,0
+192,Sint Maarten,NA,0
+193,Slovakia,Europe,0
+194,Slovenia,Europe,0
+195,Solomon Islands,Oceania,0
+197,South Africa,Africa,0
+198,South Korea,Asia,0
+200,South Yemen,NA,0
+201,Spain,Europe,0
+204,Suriname,Americas,0
+205,Swaziland,Africa,0
+206,Sweden,Europe,0
+207,Switzerland,Europe,0
+209,Taiwan,Asia,0
+210,Tajikistan,Asia,0
+211,Tanzania,NA,0
+213,The Bahamas,NA,0
+214,The Gambia,NA,0
+215,Timor-Leste,Asia,0
+216,Togo,Africa,0
+217,Tonga,Oceania,0
+218,Trinidad and Tobago,Americas,0
+221,Turkmenistan,Asia,0
+222,Turks and Caicos Islands,Americas,0
+223,Tuvalu,Oceania,0
+224,U.S.S.R.,NA,0
+225,Uganda,Africa,0
+227,United Arab Emirates,Asia,0
+228,United Kingdom,Europe,0
+229,United States,Americas,0
+230,Uruguay,Americas,0
+232,Vanuatu,Oceania,0
+234,Vietnam,Asia,0
+235,Virgin Islands,NA,0
+236,Wallis and Futuna,Oceania,0
+238,Yugoslavia,NA,0
+239,Zambia,Africa,0
+240,Zimbabwe,Africa,0
